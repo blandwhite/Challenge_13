@@ -79,7 +79,7 @@ prior to running these libraries, install them from the command line:
  
  ![](Images/Alt_1_model_results.png)
  
- ![](Images/Alt_2_model_results.png)
+ ![](Images/Alt_2_model_results.PNG)
 
 ---
 
