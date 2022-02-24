@@ -1,4 +1,4 @@
-# Module 13 Challenge: Neural Networks
+# Challenge 13: Neural Networks
 UNCC Online FinTech Bootcamp Module 13 Challenge due by 11:59pm 3/6/2022
 
 ![](Images/perceptron_model.png)
@@ -54,6 +54,11 @@ prior to running these libraries, install them from the command line:
 ## Usage
 
  ### 1. Preprocess data for a neural network model.
+   Below we see a list of the column names in our `applicant_df` dataframe. We will feed those that are categorical (i.e. non-numerical) into the `sklearn.preprocessing.OneHotEncoder` class.
+   
+   ![](Images/applicant_df_columns.png)
+   
+   Then we will add back the columns that are numerical, and then scale the whole dataframe using the `sklearn.preprocessing.StandardScaler` class.
 
  ### 2. Use the model-fit-predict pattern to compile and evaluate a binary classification model.
 
