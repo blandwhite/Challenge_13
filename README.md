@@ -1,9 +1,9 @@
 # Challenge 13: Neural Networks
 UNCC Online FinTech Bootcamp Module 13 Challenge due by 11:59pm 3/6/2022
 
-![](Images/perceptron_model.png)
+![](Images/Iterative_Places205-GoogLeNet_20.jpg)
 
-image from [www.bootcampspot.com](https://courses.bootcampspot.com/courses/980/pages/13-dot-1-3-perceptron-the-computational-neuron?module_item_id=377709)
+image from [Inceptionism: Going deeper into Neural Networks](https://photos.google.com/share/AF1QipPX0SCl7OzWilt9LnuQliattX4OUCj_8EP65_cTVnBmS1jnYgsGQAieQUc1VQWdgQ?key=aVBxWjhwSzg2RjJWLWRuVFBBZEN1d205bUdEMnhB)
 
 ---
 
