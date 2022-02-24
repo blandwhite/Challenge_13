@@ -61,8 +61,25 @@ prior to running these libraries, install them from the command line:
    Then we will add back the columns that are numerical, and then scale the whole dataframe using the `sklearn.preprocessing.StandardScaler` class.
 
  ### 2. Use the model-fit-predict pattern to compile and evaluate a binary classification model.
+ 
+ ![](Images/sequential_1.png)
 
  ### 3. Optimize the model.
+ 
+ The first change was to increase `epochs=100`, but that didn't improve the accuracy, so then we increased the 1st layer nodes to 100, and the 2nd layer nodes to 50:
+ 
+ ![](Images/sequential_3.png)
+ 
+ Then we increased the number of layers to 3 and put 25 nodes in each. Unfortunately, that didn't help much either:
+ 
+ ![](Images/sequential_4.png)
+ 
+ #### Results for the 3 options:
+ ![](Images/original_model_results.png)
+ 
+ ![](Images/Alt_1_model_results.png)
+ 
+ ![](Images/Alt_2_model_results.png)
 
 ---
 
