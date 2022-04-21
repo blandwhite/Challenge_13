@@ -1,4 +1,4 @@
-# Challenge 13: Neural Networks
+# Neural Networks
 UNCC Online FinTech Bootcamp Module 13 Challenge due by 11:59pm 3/6/2022
 
 ![](Images/Iterative_Places205-GoogLeNet_20.jpg)
